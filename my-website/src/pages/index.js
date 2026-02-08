@@ -24,24 +24,24 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs1/intro">
+            to="/docs/intro">
             Школьник
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs1/intro">
+            to="/docs/intro">
             Родитель*
           </Link>
         </div>
         <div className={styles.buttons2}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs1/intro">
+            to="/docs/intro">
             Преподаватель     
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs1/intro">
+            to="/docs/intro">
             Студент
           </Link>
         </div>
