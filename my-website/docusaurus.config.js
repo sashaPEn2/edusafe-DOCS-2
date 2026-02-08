@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Edusafe Docs ',
+        title: 'Edusafe DOCS ',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favcion.ico',
